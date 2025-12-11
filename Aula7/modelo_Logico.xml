@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="227F-43-8C57-48-B258-17-31">
+<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="ECAD-7A-BC5-11-8891-49-4F">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -126,7 +126,7 @@
         <Campos>
             <Campo>
                 <Texto>ID_cliente</Texto>
-                <Tipo>Number</Tipo>
+                <Tipo>Number(3)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -136,7 +136,7 @@
             </Campo>
             <Campo>
                 <Texto>Nome_cliente</Texto>
-                <Tipo>String</Tipo>
+                <Tipo>String(10)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
@@ -146,7 +146,7 @@
             </Campo>
             <Campo>
                 <Texto>CPF</Texto>
-                <Tipo>String</Tipo>
+                <Tipo>String(11)</Tipo>
                 <Complemento/>
                 <Dicionario/>
                 <Observacao/>
